@@ -1,0 +1,37 @@
+body{
+	background-image: url(https://github.com/edu2act/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/bg.gif?raw=true);
+	background-repeat: no-repeat;
+	font:12px 'Arial';
+	line-height:2em;
+    }
+a{
+		color:#727272;
+		text-decoration:none;
+	}
+a:visited{
+		text-decoration: underline;
+	}
+#shouye{
+	    font-weight:bolder;
+		font-size:14px;
+		color:#b9f605;
+	}
+.title{
+	    color:white;
+    }
+.title:hover{
+	    color:#b9f605;
+        text-decoration:none;
+}
+#last{
+	    color:#fdb306;
+}
+ul{
+	list-style-type: none;
+}
+.biaotou{
+	background-image: url(https://github.com/edu2act/course-web1/blob/master/Ch06%20HTML4.01&HTML5/lab6/lab6/images/banner.jpg?raw=true);
+    background-position:center;
+    background-repeat: no-repeat;
+    height:300px;
+}

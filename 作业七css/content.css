@@ -1,0 +1,17 @@
+#one{
+	font:20px '微软雅黑';
+	color:#686868;
+}
+#two{
+    font:12px 'Arial';
+	color:#a9a8a8;
+}
+.color{
+	color:#22a3d3;
+}
+p{
+	text-indent:2em;
+}
+.gray{
+	background-color:rgb(250,250,250);
+}
