@@ -1,0 +1,91 @@
+body{
+	font:12px '宋体';
+	color:#522a06;
+	padding:0px;
+}
+a{
+    text-decoration:none;
+    color:#522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+#header{
+	height:205px;
+	background-image: url(images/bg.gif);
+	background-repeat: no-repeat;
+}
+#banner{
+	background-image: url(images/logo.png);
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 164px;
+	position:relative;
+    left:100px;
+    top:38px;
+}
+#nav{
+	height: 40px;
+	background-image: url(images/nav.jpg);
+	background-repeat: no-repeat;
+}
+.nav_body{
+	width:1250px;
+	height:40px;
+	position:relative;
+    left:130px;
+}
+.nav_content{
+	width:800px;
+	height:40px;
+	position:relative;
+    left:10px;
+    float:left;
+}
+.title{
+	font-weight:normal;
+	color:#fff;
+	line-height:40px;
+}
+.title:hover{
+	color:#f9f603;
+    text-decoration:none;
+}
+#shouye{
+	font-weight:normal;
+	color:#f9f603;
+	line-height:40px;
+	}
+.nav_search{
+	width:400px;
+	height:40px;
+	float:left;
+}
+#text{
+    width:140px;
+    height:19px;
+    background-color:#f8f5ee;
+}
+#button{
+    width:44px;
+    height:21px;
+    background-color:#000;
+    color:#fff;
+}
+#search{
+	width: 140px;
+	height: 20px;
+	position:relative;
+    left:50px;
+    top:5px;
+    float:left;
+}
+#search2{
+	width:44px;
+    height:21px;
+    position:relative;
+    left:53px;
+    top:5.5px;
+	border:1px solid #f8f5ee;
+	float:left;
+}
